@@ -1,4 +1,6 @@
 HELP.md
+# Ignorar config local de entorno
+/src/main/resources/application-dev.properties
 target/
 .mvn
 mvnw
